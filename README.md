@@ -1,5 +1,3 @@
-Template for FE progects
+Uvisoft Test Task Part 2
 
--[DEMO](https://campari229.github.io/fe-template/);
-
-For correct work use plugins: ESLint, LintHTML, stylelint.
+-[DEMO](https://campari229.github.io/Uvisoft-tt-part2/);
