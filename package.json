@@ -29,7 +29,7 @@
     "eslint-plugin-node": "^11.1.0",
     "husky": "^4.2.5",
     "jquery": "^3.5.1",
-    "node-forge": ">=0.10.0",
+    "node-forge": ">=1.0.0",
     "node-sass": "^4.14.1",
     "parcel": "^1.12.4",
     "stylelint": "^13.6.1"
